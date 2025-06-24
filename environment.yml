@@ -3,7 +3,7 @@ name: research-project
 channels:
 - conda-forge
 
-dependancies:
+dependencies:
 python=3.11
 - jupyter=1.0.0
 - jupyterlab>=3.1
